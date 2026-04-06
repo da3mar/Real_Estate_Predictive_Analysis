@@ -1,6 +1,4 @@
-# Real_Estate_Predictive_Analysis
-Real Estate Predictive Analysis
-
+# Real Estate Predictive Analysis
 1. Executive Summary
 
 This project focuses on developing a robust real estate price prediction system using data-driven techniques. Through effective data cleaning and feature engineering, the model was designed to reflect real-world market behavior and economic logic.
